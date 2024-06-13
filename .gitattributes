@@ -1,0 +1,1 @@
+대용량파일.확장자 filter=lfs diff=lfs merge=lfs -text
